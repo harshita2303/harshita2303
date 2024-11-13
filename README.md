@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am harshita Joshi 
 
 <!--
 **harshita2303/harshita2303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
